@@ -34,12 +34,5 @@ This project is built using [Databutton](https://databutton.com/), which provide
 
 ## Live Demo
 
-You can try out the live app here: [Movie Database App](YOUR_DEPLOYED_URL)
+You can try out the live app here: [Movie Database App]((https://movie_assignment.databutton.app/movie-database-app))
 
-## Screenshots
-
-[Add screenshots of your app here]
-
-## Contributing
-
-Feel free to submit issues and enhancement requests!
